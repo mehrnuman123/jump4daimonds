@@ -22,6 +22,7 @@
   "homepage": "https://github.com/egee-irl/jumper#readme",
   "dependencies": {
     "electron": "^11.5.0",
-    "http-server": "^0.12.3"
+    "http-server": "^0.12.3",
+    "netlify-cli": "^8.2.4"
   }
 }
